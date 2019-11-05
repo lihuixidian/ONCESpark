@@ -1,4 +1,5 @@
 # ONCESpark
+
 This repository contains the source code for our stream-aware serial pattern mining algorithm, namely ONCESpark, which corresponds to an academic paper submitted to Future Generation Computer Systems. The source code for the work will be released here once the paper is accepted.
 
 ONCEPSpark.scala and ONCEStreaming.scala work under the Spark platform, and ONCEStreaming.scala uses Sparkstreaming to process streaming data.The version of Spark is 1.6.0 and the version of Hadoop is 2.6.0
