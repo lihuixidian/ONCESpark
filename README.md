@@ -2,7 +2,7 @@
 
 This repository contains the source code for our stream-aware serial pattern mining algorithm, namely ONCESpark, which corresponds to an academic paper, namely ***Mining the Frequency of Time-constrained Serial Episodes over Massive Data Sequences and Streams***, accepted by *Future Generation Computer Systems*. The source code for the work will be released here once the paper is accepted.
 
-ONCEPSpark.scala and ONCEStreaming.scala work under the Spark platform, and ONCEStreaming.scala uses Sparkstreaming to process streaming data.The version of Spark is 1.6.0 and the version of Hadoop is 2.6.0.
+ONCEPSpark.scala and ONCEStreaming.scala work under the Spark platform, and ONCEStreaming.scala uses Sparkstreaming to process streaming data. The code is tested compatible with Spark v1.6.0 and Hadoop v2.6.0.
 
 ## Input:
 a long sequence in the form of: [(s1,time1),(s2,time2),...]
